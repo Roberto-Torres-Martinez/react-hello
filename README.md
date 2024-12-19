@@ -1,8 +1,12 @@
+<!-- hide -->
+
+> ⚠️ This repository is deprecated and has no maintenance; we recommend using the [React Hello Vite](https://github.com/4GeeksAcademy/react-hello-vite) template instead.
+
 # Hello World with React boilerplate
 
 Start coding a react application
 
-> If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
+<!-- endhide -->
 
 ## How to start coding?
 
